@@ -1,0 +1,9 @@
+*
+!demo
+!demo/*
+!singleton
+!singleton/*
+!requirements.txt
+!setup.py
+!.gitignore
+!Makefile
