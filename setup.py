@@ -12,5 +12,6 @@ setup(
     license='GPL',
     author='Xiaoquan Kong',
     author_email='u1mail2me@gmail.com',
-    description='library for MicroSingleton pattern (application and class level)'
+    description=('A micro library for singleton pattern '
+                 '(application and class level)')
 )
